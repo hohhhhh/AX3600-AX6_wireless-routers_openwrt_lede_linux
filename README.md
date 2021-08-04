@@ -1,19 +1,31 @@
 仅供自定义插件的朋友使用！
 全能插件版：
 #OpenAppFilter
+
 #IPv6
+
 #简单mesh
+
 #科学ssp（全组件）
+
 #smartdns
+
 #去广告plus—及—Adg广告拦截
+
 #云音乐
+
 #流控
+
 #ttyd
+
 #zerotier
+
 #Turbo ACC
-#访客网络
+
 #openclash
+
 #jd签到
+
 #多拨&负载均衡#组播#等等！自行研究！
 
 
@@ -21,7 +33,7 @@
 
 本次config文件集成了基本上所有插件！
 
-关于插件说明大家可参考恩山这个帖子 https://www.right.com.cn/forum/thread-344825-1-3.html 对照插件自定义删除config配置文件你们自己不需要的插件！
+关于插件说明可以自定义删除config配置文件你们自己不需要的插件！
 
 然后保存即可，编译出的固件就是你自定义想要的插件
 
