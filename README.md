@@ -1,47 +1,48 @@
 源码库基于
 https://github.com/coolsnowwolf/lede
-仅供有能力自定义并编译固件的朋友 个人使用 ！
 
-全能插件版：
+适用于AX6和AX3600，仅供有能力自定义并编译固件的朋友 个人使用 ！
+
+含插件：
 
 #IPv6
 
 #简单mesh
 
-#科学ssp（全组件）
+#Turbo ACC
+
+#AdGuardhome
+
+#酸酸乳plus（全组件）
 
 #smartdns
 
-#去广告plus—及—Adg广告拦截
+#去广告plus
 
-#云音乐
+#组播
 
-#流控
+#云音乐点亮灰色音乐
+
+#QOS以及SQM
 
 #ttyd
 
 #zerotier
 
-#Turbo ACC
-
 #openclash(与NSS冲突 二选一)
 
 #jd签到
 
-#多拨&负载均衡#组播#等等！自行研究！
+#多拨&负载均衡#等等！自行研究！
 
-
-适用于AX6和AX3600
-
-本次config文件集成了基本上所有插件！
+本次config文件集成了基本上所有常用插件！
 
 关于插件说明可以自定义删除config配置文件你们自己不需要的插件！
 
 然后保存即可，编译出的固件就是你自定义想要的插件
 
-驱动：默认NSS加速和sfe加速
+驱动：默认QCA-NSS加速和sfe加速
 
 主题：集成了argon，可对照config配置文件里主题随意增删！
 
-
-此次更新为Actions，不需要任何修改，手动触发即可编译。
+此项目为Actions，不需要任何修改，手动触发即可编译。
