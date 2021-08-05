@@ -23,7 +23,7 @@
 
 #Turbo ACC
 
-#openclash
+#openclash(与NSS冲突 二选一)
 
 #jd签到
 
