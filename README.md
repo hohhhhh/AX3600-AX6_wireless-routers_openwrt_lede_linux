@@ -1,8 +1,6 @@
 仅供自定义插件的朋友使用！
 全能插件版：
 
-#OpenAppFilter
-
 #IPv6
 
 #简单mesh
