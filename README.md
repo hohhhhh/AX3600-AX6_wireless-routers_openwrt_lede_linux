@@ -1,5 +1,5 @@
 源码库基于
-github.com/coolsnowwolf/lede
+https://github.com/coolsnowwolf/lede
 仅供有能力自定义并编译固件的朋友 个人使用 ！
 
 全能插件版：
