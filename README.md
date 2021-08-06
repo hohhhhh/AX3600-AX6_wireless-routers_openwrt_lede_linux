@@ -7,9 +7,15 @@ https://github.com/coolsnowwolf/lede
 
 #IPv6
 
+#UPNP
+
 #简单mesh
 
 #Turbo ACC
+
+#NSS ShortcutFE暂时去掉 因无限重启BUG 暂用flow_offloading
+
+#openclash(与NSS冲突 二选一)
 
 #AdGuardhome
 
@@ -29,18 +35,12 @@ https://github.com/coolsnowwolf/lede
 
 #zerotier
 
-#openclash(与NSS冲突 二选一)
-
-#jd签到
-
 #多拨&负载均衡
 
 本次config文件集成了基本上所有常用插件！
 
-可以自定义删除config配置文件你们自己不需要的插件！
+可自定义config配置文件
 
-驱动：默认QCA-NSS加速和sfe加速
+主题：集成了argon
 
-主题：集成了argon，可对照config配置文件里主题随意增删！
-
-此项目为Actions，不需要任何修改，手动触发即可编译。
+此项目为Actions，手动触发即可编译。
