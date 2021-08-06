@@ -1,7 +1,7 @@
 源码库基于
 https://github.com/coolsnowwolf/lede
 
-适用于AX6和AX3600，仅供有能力自定义并编译固件的朋友 个人使用 ！
+适用AX6和AX3600，仅供个人使用 
 
 含插件：
 
