@@ -18,6 +18,8 @@
 
 #openclash(与NSS冲突 二选一)
 
+#全能推送
+
 #AdGuardhome
 
 #酸酸乳plus（全组件）
