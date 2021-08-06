@@ -9,6 +9,8 @@ https://github.com/coolsnowwolf/lede
 
 #UPNP
 
+#KMS
+
 #简单mesh
 
 #Turbo ACC
