@@ -1,5 +1,4 @@
-源码库基于
-https://github.com/coolsnowwolf/lede
+源码库基于https://github.com/coolsnowwolf/lede
 
 适用AX6和AX3600，仅供个人使用 
 
@@ -35,14 +34,8 @@ https://github.com/coolsnowwolf/lede
 
 #ttyd
 
-#zerotier
-
 #多拨&负载均衡
 
-本次config文件集成了基本上所有常用插件！
-
-可自定义config配置文件
-
-主题：集成了argon
+本config集成大量常用插件，可自定义config配置文件
 
 此项目为Actions，手动触发即可编译。
