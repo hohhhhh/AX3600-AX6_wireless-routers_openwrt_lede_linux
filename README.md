@@ -52,6 +52,8 @@
 
 #Turbo ACC 网络加速
 
+#网络带宽监视器
+
 本config集成大量常用插件，可自定义config配置文件
 
 此项目为Actions，手动触发即可编译。
