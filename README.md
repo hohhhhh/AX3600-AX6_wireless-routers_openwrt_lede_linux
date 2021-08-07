@@ -1,6 +1,6 @@
 OpenWrt 是一个针对嵌入式设备的、高度可自定义化的、开源的Linux操作系统
 
-此无线路由器的固件，源码基于https://github.com/coolsnowwolf/lede
+此无线路由器的OpenWrt固件，源码基于https://github.com/coolsnowwolf/lede
 
 该固件适用AX6/AX3600，仅供有足够动手能力的个人使用，不保证稳定，也不会对因此固件而导致的 任何问题 负责。
 
