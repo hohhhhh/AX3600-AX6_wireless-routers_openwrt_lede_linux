@@ -14,7 +14,7 @@
 
 #Turbo ACC
 
-#NSS加速（因上游lede源码库NSS-ECM组件无限重启BUG，移除NSS-ECM,其他组件保留『感谢Kaze大佬』）
+#NSS加速（因上游lede源码库ECM无限重启BUG，移除ECM,改用SFE『感谢Kaze大佬』）
 
 #openclash(与NSS冲突 二选一)
 
