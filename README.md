@@ -4,9 +4,9 @@
 
 含插件：
 
-#NSS硬件加速（因上游lede源码库ECM无限重启BUG，移除ECM换用SFE，NSS其他组件保留『感谢Kaze大佬』）
-
 #SFE硬件加速
+
+#NSS硬件加速（因上游lede源码库ECM无限重启BUG，移除ECM换用SFE，NSS其他组件保留『感谢Kaze大佬』）
 
 #IPv6
 
