@@ -14,7 +14,7 @@
 
 #Turbo ACC
 
-#NSS ShortcutFE暂时去掉 因无限重启BUG 暂用flow_offloading
+#NSS ShortcutFE
 
 #openclash(与NSS冲突 二选一)
 
@@ -26,15 +26,21 @@
 
 #smartdns
 
+#上网时间控制
+
 #去广告plus
 
-#组播
-
-#云音乐点亮灰色音乐
+#udpxy
 
 #QOS以及SQM
 
+#网络唤醒
+
 #ttyd
+
+#IPSec VPN 服务器
+
+#ZeroTier
 
 #多拨&负载均衡
 
