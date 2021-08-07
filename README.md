@@ -1,12 +1,14 @@
-源码库基于https://github.com/coolsnowwolf/lede
+OpenWrt 是一个针对嵌入式设备的、高度可自定义化的、开源的Linux操作系统。
 
-适用AX6和AX3600，仅供有足够动手能力的个人使用，不保证稳定，也不会对因此固件而导致的 任何问题 负责。
+此无线路由器的固件，源码基于https://github.com/coolsnowwolf/lede
+
+该固件适用AX6/AX3600，仅供有足够动手能力的个人使用，不保证稳定，也不会对因此固件而导致的 任何问题 负责。
 
 含插件：
 
 #SFE硬件加速
 
-#NSS硬件加速（因上游lede源码库ECM无限重启BUG，移除ECM换用SFE，NSS其他组件保留『感谢Kaze大佬』）
+#NSS硬件加速（因上游lede源码库ECM重启BUG，移除ECM换用SFE，NSS其他组件保留『感谢Kaze大佬』）
 
 #IPv6
 
