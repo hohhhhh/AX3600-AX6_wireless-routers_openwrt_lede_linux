@@ -14,7 +14,7 @@
 
 #Turbo ACC
 
-#NSS ShortcutFE
+#NSS加速（因上游NSS-ECM无限重启BUG，暂时移除NSS-ECM,其他的保留）
 
 #openclash(与NSS冲突 二选一)
 
