@@ -1,4 +1,4 @@
-OpenWrt 是一个针对嵌入式设备的、高度可自定义化的、开源的Linux操作系统。
+OpenWrt 是一个针对嵌入式设备的、高度可自定义化的、开源的Linux操作系统
 
 此无线路由器的固件，源码基于https://github.com/coolsnowwolf/lede
 
