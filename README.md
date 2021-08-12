@@ -6,7 +6,7 @@ OpenWrt 是一个针对嵌入式设备的、高度可自定义化的、开源的
 
 该固件适用AX6/AX3600，含功能如下：
 
-#SFE/NSS硬件nat加速
+#SFE/NSS(off ecm)硬件nat加速
 
 #IPv6
 
